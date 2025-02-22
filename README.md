@@ -1,8 +1,1 @@
-# GenAI Chatbot
-
-This is a Generative AI-powered chatbot using LLMs and customizable memory.
-
-Features:
-- Chat with LLMs
-- RAG support (Retrieval-Augmented Generation)
-- File/document-based question answering
+chore: backdated commit for 2025-02-22T10:00:00
